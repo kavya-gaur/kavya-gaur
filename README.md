@@ -9,13 +9,14 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Enthusiast with a huge love for React.js, Next.js, Node.js, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
+<!-- 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/kavya-gaur).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kavya-gaur.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://kavya-gaur.github.io) for more details about me. -->
+- With over more than 4 years of expertise, I proficiently handle Frontend Development using Next.js, React, and various CSS frameworks. I excel in API integrations, backend development, authentication implementation, and thorough testing.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
