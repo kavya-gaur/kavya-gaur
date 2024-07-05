@@ -2,7 +2,7 @@
 
 
 <!--Header Name-->
-# Hey! I am *Kavya*! 
+# Hey! I am *Kavya* :)
 *Next.js Expert | Full Stack Developer*
 <br /> 
 
